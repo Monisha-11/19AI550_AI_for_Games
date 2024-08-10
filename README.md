@@ -12,6 +12,7 @@
 ### Repeat: Continue the process until only one person remains in the queue.
 ## Program: 
 
+```python
 import queue
 import random
 import time
@@ -41,7 +42,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/4636460c-f426-44cb-9645-0308383ce7d1)
 
