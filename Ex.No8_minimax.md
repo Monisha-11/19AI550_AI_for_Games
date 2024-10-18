@@ -1,4 +1,4 @@
-# Ex.No: 7  Implementation of Minimax Search
+# Ex.No: 8  Implementation of Minimax Search
 ### DATE: 13/09/2024                                                                       
 ### REGISTER NUMBER : 212221240029
 ### AIM: 
