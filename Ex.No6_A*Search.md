@@ -1,10 +1,10 @@
-# Ex.No: 6  Implementation of Zombie survival game using A* search 
+# Ex.No: 6  Implementation of Zombie survival game using A star search 
 
 ### DATE: 18-10-2024
 ### REGISTER NUMBER : 212221240029
 ### AIM: 
 
-To write a python program to simulate the Zomibie Survival game using A* Search 
+To write a python program to simulate the Zomibie Survival game using A star Search 
 
 ### Algorithm:
 
